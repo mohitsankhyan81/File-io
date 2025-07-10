@@ -1,5 +1,6 @@
 f=open("name.txt","w")
-data=f.write("my name is mohit am from kalka");
+data=f.write("my name is mohit am from kalka")
+f.write(" now i move to new data")
 print(data)
 print(type(data))
 f.close()
