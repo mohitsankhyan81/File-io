@@ -1,3 +1,5 @@
+# Search if the word “learning” exists in the file or not.
+
 def serch():
     word="Using"
     with  open("practice2.txt","r") as f:
